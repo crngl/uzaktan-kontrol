@@ -2,7 +2,7 @@
 title Webmail Kontrol Sistemi
 echo 🚀 Webmail Kontrol Sistemi başlatılıyor...
 echo.
-echo 📧 Mail: cerengol21@gmail.com
+echo 📧 Mail: @gmail.com
 echo ⏰ Kontrol aralığı: 5 dakika
 echo 🔊 Sesli uyarı: Aktif
 echo.
