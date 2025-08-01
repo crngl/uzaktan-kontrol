@@ -121,7 +121,9 @@ uzaktan_kontrol/
 
 ## Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
+Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır.
+
+Detaylar için `LICENSE` dosyasını inceleyebilirsiniz.
 
 ## İletişim
 
